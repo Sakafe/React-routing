@@ -1,0 +1,28 @@
+.navbar li{
+    display: inline-block;
+    padding: 10px;
+}
+/* .nav-bar-link{
+    color:black;
+    text-decoration: none;
+}  */
+/* .nav-bar-link:hover{
+    background-color: darkgreen;
+    color: red;
+
+}
+.nav-bar-link.active{
+    color:orange
+} */
+.link {
+    text-decoration: none;
+    color: black;
+    
+  }
+  
+  .active {
+    text-decoration: none;
+    color: blue;
+
+  }
+  
